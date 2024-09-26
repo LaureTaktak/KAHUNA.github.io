@@ -1,0 +1,41 @@
+
+
+
+.chris img{
+    position: absolute; left: 520px;
+}
+
+
+.type{
+    font-family:"Urban Blocje";
+    color: rgb(13, 114, 144);
+}
+
+.couv{
+    position: absolute; bottom: -2560px; 
+}
+
+.text {
+    color:rgb(13, 107, 107);
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute; bottom: -2900px; left: 400px; right: 400px;
+}
+.p1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer {
+    position: absolute; bottom: -3100px; left: 400px; right: 400px;
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(30, 99, 92);
+  }
+  
+  .footer a {
+    font-size: 30px;
+    color:  #fffffd;
+  }
+  
+  .footer .fas {
+    color: #ffffff;
+  }
